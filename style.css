@@ -92,13 +92,28 @@ img {
   #lezioni .row>.right {
     width: 100%;
 }  
-  img{
+  img{ 
+    margin-top:20px ;
     height: 100px;
   } 
 
   h3{
     margin: 0;
-  }
+  } 
+
+  /* Blocco Steps */ 
+
+  .container.grey {
+    background-color: white;
+  } 
+
+  #steps .row>.left,
+#steps .row>.central,
+#steps .row>.right {
+  width: 100%;
+} 
+
+
 
 
 
